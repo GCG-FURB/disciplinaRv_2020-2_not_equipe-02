@@ -1,0 +1,16 @@
+__ Equipe 2 _____
+Nota: 10,0
+x Bruno Henrique de Borba
+x Daniel Borba Varela dos Santos
+Three.JS -> usamos em alguns TCCs
+
+Algortimos usados aparecem em detecção de marcadores, etc.
+
+Cenários Estruturados ou Não
+Poder ter um momento de calibragem
+Invasivo ou não
+
+TCCs nesta linha -> Scanner (estilo Kinect) mas sem usar infra-vermelho ... e só uma câmera
+  -> detectar objeto
+  -> captura de voxels (x,y,z)
+  -> Reconstituição do objeto 3D
